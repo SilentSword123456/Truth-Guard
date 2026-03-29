@@ -49,7 +49,7 @@ TruthGuard-X is a Next.js 16 (App Router) project built with React 19, Tailwind 
 
 1. **Clone & Install:**
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/neilsharma999/Truth-Guard.git
    cd truthguard-x
    npm install
    ```
